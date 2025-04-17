@@ -7,3 +7,4 @@ In this project, I will be using TypeScript, along with HTML and SCSS/CSS to bui
 The game I have chosen to build is Tic-Tac-Toe (also known as noughts and crosses), as this was a staple of my childhood.
 
 Please try the game and let me know how you get on! 🎆
+https://motala11.github.io/TypeScriptGameProject/
